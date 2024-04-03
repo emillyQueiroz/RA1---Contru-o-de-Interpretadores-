@@ -1,0 +1,9 @@
+expressao,resultado_esperado,resultado_obtido,conformidade,comentarios
+2 + 3,Árvore não nula,Sucesso,Sim,
+5 * (4 - 2),Árvore não nula,Sucesso,Sim,
+10 / 2,Árvore não nula,Sucesso,Sim,
+2 ^ 3,Árvore não nula,Sucesso,Sim,
+10 % 3,Árvore não nula,Sucesso,Sim,
+|4 / 2|,Árvore não nula,Sucesso,Sim,
+2 MEM,Árvore não nula,Sucesso,Sim,
+3 RES,Árvore não nula,Sucesso,Sim,
