@@ -1,3 +1,4 @@
+Trabalho realizado por: Beatriz, Caroline, Emilly e Maria Pietra
 # Trabalho de Construção de Interpretadores
 
 Este é o repositório do trabalho da disciplina de Construção de Interpretadores. O trabalho consiste na implementação de um interpretador para uma calculadora simples, capaz de avaliar expressões aritméticas e armazenar valores em memória.
